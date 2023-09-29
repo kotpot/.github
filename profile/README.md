@@ -1,6 +1,8 @@
 ## Here is Kotlin pot 👋
 
-| Project | Description |
+[TODO] Change means from: https://en.wikipedia.org/wiki/List_of_plants_with_symbolism
+
+| Project | Description | Means |  |
 | -- | -- |
-| sakura | A blog build framework |
-| cosmos | A tool to listen to songs together |
+| gerbera | A blog build framework | https://en.wikipedia.org/wiki/Gerbera |
+| cosmos | A tool to listen to songs together | https://en.wikipedia.org/wiki/Cosmos_(plant) |
