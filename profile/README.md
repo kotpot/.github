@@ -2,7 +2,7 @@
 
 ## Means Todo
 
-Change means from: https://en.wikipedia.org/wiki/List_of_plants_with_symbolism.
+Change means from: https://en.wikipedia.org/wiki/Hanakotoba
 
 Now based on https://zh.wikipedia.org/wiki/%E8%8A%B1%E8%AF%AD
 
